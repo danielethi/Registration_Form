@@ -1,2 +1,3 @@
 Registraion Form
-![My Image](form.jpg)
+![alt text](foorm.png)
+
