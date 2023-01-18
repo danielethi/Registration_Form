@@ -1,0 +1,32 @@
+.form-container{
+	max-width: 470px;
+	margin: 70px auto;
+    text-align: center;
+}
+.form-container ul li{
+	display: block;
+	margin-bottom: 5px;
+	min-height: 40px;
+}
+.form-container ul li input{
+	margin: 5px;
+    padding: 10px;
+}
+.form-container ul li .middle-btn{
+	width:312px
+}
+
+.form-container ul li .btn1{
+	width:200px;
+    background-color:teal;
+    font-size: large;
+    padding: 10px;
+}
+.form-container ul li .btn2{
+	width:200px;
+    background-color: red;
+    font-size: large;
+    background-color: green;
+    padding: 10px;
+}
+
